@@ -1,5 +1,8 @@
 
 # 🌐 Web2Tor: Seamless Access to Tor from the Web
+![Web2Tor Cover Image](web2tor.png)
+
+
 
 **Web2Tor** is a revolutionary tool that bridges the gap between the standard web and the Tor network. Built upon the robust 🌩️ Cloudflare Workers, it facilitates direct access to a specific Tor hidden service without the need for a dedicated Tor browser. While primarily designed for website owners to harness the combined advantages of Cloudflare's DDoS protection and Tor's 🕵️‍♂️ anonymity, it ensures that the user experience remains streamlined across standard web browsers like Chrome, Brave, and Edge.
 
